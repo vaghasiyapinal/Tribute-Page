@@ -1,0 +1,44 @@
+		body {
+			background-color:rgb(210, 183, 235);
+			margin: 10%;
+		}
+		#title {
+			text-align: center;
+			text-shadow: 5px 5px 10px #76cea2;
+			font-size: 7vh;
+			padding-top:0%;
+		}
+        #main>h3
+        {
+            text-align: center;
+        }
+		img {
+			display: inline-block;
+			width: 100%;
+            border: 6px solid #dbb48e;
+            
+		}
+		#caption >h2 {
+			font-size: 17px;
+			font-family: Gill Sans;
+			color: black;
+            text-align: center;
+		}
+		div#tribute-data {
+			background-color: #dac5a4;
+			/*box-shadow: -40px -40px 40px #0809087b,40px 40px 40px #0809087b;*/
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px
+			margin-top: 50px;
+		}
+		h1.title-Elon {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px rgb(155, 152, 152);
+		}
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
